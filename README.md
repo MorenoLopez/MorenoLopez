@@ -1,13 +1,16 @@
+---
 <div align="center">
   <br/><br/>
   <img src="https://readme-typing-svg.demolab.com/?lines=4n0ny_m0&size=40&center=true&width=600&color=00AEEF&pause=1500&font=Fira%20Code" alt="Typing SVG" />
   <br/><br/>
 </div>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MorenoLopez&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
-
+<br/>
 <div align="center">
   <h3>🛡️ Cybersecurity Enthusiast | 🚩 CTF Challenger | 💻 Student @ 42 Antananarivo</h3>
 </div>

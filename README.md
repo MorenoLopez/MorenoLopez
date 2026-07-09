@@ -62,5 +62,5 @@
 ## 👾 Contributions
 
 <div align="center">
-  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/MorenoLopez/MorenoLopez/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </div>

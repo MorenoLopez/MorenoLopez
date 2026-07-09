@@ -42,7 +42,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorenoLopez&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorenoLopez&theme=react-dark&bg_color=0d1117&hide_border=true&v=1" alt="GitHub Activity Graph" width="100%" />
 </div>
 <br/><br/><br/><br/>
 

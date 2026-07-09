@@ -61,4 +61,6 @@
 
 ## 👾 Contributions
 
-![GitHub Snake](https://raw.githubusercontent.com/MorenoLopez/MorenoLopez/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+</div>

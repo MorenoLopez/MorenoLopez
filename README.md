@@ -30,7 +30,7 @@
 ## 🎯 Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,ts,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,php,postgres,mysql,mongo,linux,bash,vim&perline=7" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,py,ts,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,php,postgres,mysql,mongo,linux,bash,vim,docker&perline=7" alt="My Skills" />
 </div>
 
 <br/><br/><br/><br/>

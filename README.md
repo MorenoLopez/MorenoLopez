@@ -1,7 +1,7 @@
 ---
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=4n0ny_m0&size=40&center=true&width=600&color=9929f2&pause=1500&font=Fira%20Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=4n0ny_m0&size=40&center=true&width=600&color=9929f2&pause=1500&font=Fira%20Code" alt="Typing SVG" style="margin-top:20px" />
   <br/><br/>
 </div>
 

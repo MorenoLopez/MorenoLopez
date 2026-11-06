@@ -30,7 +30,7 @@ ____________/\\\______________________/\\\\\\\__________________________________
 </p>
 <br/>
 <div align="center">
-  <h3>🛡️ Cybersecurity Enthusiast | 🚩 CTF Challenger | 💻 Student @ 42 Antananarivo</h3>
+  <h3> Cybersecurity Enthusiast |  CTF Challenger |  Student @ 42 Antananarivo</h3>
 </div>
 
 ---
